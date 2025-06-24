@@ -1,7 +1,7 @@
 /*
 ====================================================
   UNIVERSITY TIMETABLE GENERATOR
-  Author: Your Name
+  Author: Usman ahmed jan
   Description: Generates a university timetable,
   avoiding time and teacher conflicts.
 ====================================================
